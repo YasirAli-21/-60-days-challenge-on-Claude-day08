@@ -491,6 +491,38 @@ Aspiring AI Engineer | Final-Year BS(IT) Student | Python • Machine Learning �
 Better Personal Brand Statement
 I am a final-year BS(IT) student focused on building practical AI solutions using Python, Machine Learning, and NLP. Through academic projects, my FYP (YSENTRY), and continuous learning initiatives, I am developing the skills required to become an AI Engineer and contribute to real-world AI products.
 Day12 README.md
+
+# Day 13 - AI Job Discovery Dashboard
+
+## Objective
+Use Claude Connectors and AI-powered job discovery to identify relevant career opportunities and analyze market demand.
+
+## What I Did
+- Created a professional profile for job matching
+- Defined job search criteria
+- Discovered matching AI/ML opportunities
+- Reviewed job match scores
+- Analyzed market demand trends
+- Identified skill gaps and learning priorities
+- Generated career improvement recommendations
+
+## Key Learnings
+- AI can automate job discovery and opportunity matching.
+- Market demand analysis helps identify valuable skills.
+- Skill gap analysis provides a focused learning roadmap.
+- Strategic job searching improves career opportunities.
+
+## Biggest Insight
+My current profile aligns well with AI/ML internship opportunities, while strengthening skills in LLMs, RAG, LangChain, Vector Databases, and Cloud technologies can significantly improve my competitiveness for AI Engineer roles.
+
+## Technologies Used
+- Claude AI
+- Claude Connectors
+- Indeed Connector
+- AI-Powered Job Analysis
+
+## Outcome
+Generated an AI Job Discovery Dashboard with opportunity matching, market demand insights, skill-gap analysis, and personalized career recommendations.
  
 ✅ Day 1 Completed  
 ✅ Day 2 Completed  
@@ -499,11 +531,12 @@ Day12 README.md
 ✅ Day 5 Completed  
 ✅ Day 6 Completed  
 ✅ Day 7 Completed  
-   ✅ Day 8 Completed
-     ✅ Day 9 Completed
-      ✅ Day 10 Completed
-      ✅ Day 11 Completed
-        ✅ Day 12 Completed
+✅ Day 8 Completed
+✅ Day 9 Completed
+✅ Day 10 Completed
+✅ Day 11 Completed
+✅ Day 12 Completed
+✅ Day 13 Completed
    
   
    
